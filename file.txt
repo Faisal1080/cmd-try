@@ -1,1 +1,3 @@
 this is cmd file
+1
+2
